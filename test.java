@@ -18,6 +18,7 @@ public class test {
         double dnum1=12.5;
         double dnum2=36.4;
 
+        System.out.println();
         System.out.println("면적 : "+ (dnum1*dnum2));
         System.out.println("둘레 : "+ 2*(dnum1+dnum2));
 
