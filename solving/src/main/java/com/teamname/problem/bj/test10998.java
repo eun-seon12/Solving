@@ -2,7 +2,8 @@ package com.teamname.problem.bj.solving.src.main.java.com.teamname.problem.bj;
 
 import java.util.Scanner;
 
-public class test1000 {
+public class test10998 {
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -12,6 +13,6 @@ public class test1000 {
         int num2 = sc.nextInt();
 
 
-        System.out.println(num1+num2);
+        System.out.println(num1*num2);
     }
 }
