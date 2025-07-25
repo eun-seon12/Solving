@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c85e02ff-6799-438c-8ba0-6599afec1ace" name="Changes" comment="0719 solving" />
+    <list default="true" id="c85e02ff-6799-438c-8ba0-6599afec1ace" name="Changes" comment="0724 test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,21 +47,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.test10998.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Qsolving",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.test10998.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test2438.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test2439.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Qsolving&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,7 +81,8 @@
       <updated>1752861297035</updated>
       <workItem from="1752861298260" duration="860000" />
       <workItem from="1752948323230" duration="123000" />
-      <workItem from="1753362393885" duration="332000" />
+      <workItem from="1753362393885" duration="1435000" />
+      <workItem from="1753467189436" duration="430000" />
     </task>
     <task id="LOCAL-00001" summary="0719">
       <option name="closed" value="true" />
@@ -105,7 +108,31 @@
       <option name="project" value="LOCAL" />
       <updated>1752861961631</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0724 test">
+      <option name="closed" value="true" />
+      <created>1753363696787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753363696787</updated>
+    </task>
+    <task id="LOCAL-00005" summary="0724 test">
+      <option name="closed" value="true" />
+      <created>1753363704260</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753363704260</updated>
+    </task>
+    <task id="LOCAL-00006" summary="0724 test">
+      <option name="closed" value="true" />
+      <created>1753363763784</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753363763784</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +142,7 @@
     <MESSAGE value="0718" />
     <MESSAGE value="0719" />
     <MESSAGE value="0719 solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="0719 solving" />
+    <MESSAGE value="0724 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="0724 test" />
   </component>
 </project>
